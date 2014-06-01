@@ -4,20 +4,16 @@ layout: page
 comments: no
 ---
 
-程序猿一头，目前从事iOS系统的相关开发。	
-热爱编程，开源爱好者，喜欢linux，github等。		
-喜欢干净整洁的代码，轻微代码洁癖。  	
-微博控
+我是赵欣，这是我在github的博客。
 
 ----
 
 ###联系方式：        
 
-个人邮箱: [ccf.developer@gmail.com](mailto:ccf.developer@gmail.com)     
-新浪微博: [webfrogs](http://weibo.com/u/1713195262)	 
-豆瓣：[网蛙](http://www.douban.com/people/48235183/)    
-github : [webfrogs](https://github.com/webfrogs)        
-twitter: [Carl Chen](https://twitter.com/CarlOnWeb)
+个人邮箱: [lincystar@gmail.com](mailto:lincystar@gmail.com)     
+新浪微博: [普林印象](http://weibo.com/u/1713195262)	 
+豆瓣：[宁静甸甸](http://www.douban.com/people/49131083/)    
+github : [lincystar](https://github.com/lincystar)        
 
 ----
 
